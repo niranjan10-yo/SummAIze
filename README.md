@@ -1,1 +1,1 @@
-https://summaize-pdfsummarizertool-two.vercel.app/login
+https://summaize-pdfsummarizertool-two.vercel.app
